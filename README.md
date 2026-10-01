@@ -8,6 +8,10 @@ The analysis combines pricing files from five Raleigh area hospitals and examine
 
 The project uses Python for data preparation, SQL Server for validation and analysis, and Power BI for interactive reporting and data exploration.
 
+## 📸 Dashboard Preview
+
+![Hospital Price Transparency Dashboard](https://github.com/sheel93807/Hospital-Price-Transparency-Data-Project/blob/main/HospitalPriceTransparencyDataProjectScreenshot.png)
+
 ## 🎯 Project Objective
 
 Evaluate pricing transparency across five Raleigh area hospitals by examining reporting quality, standardizing procedure codes, and comparing published prices for similar services.
